@@ -15,13 +15,13 @@ I transform ideas into digital experiences. With a passion for maintainable code
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">sohotownhomes.ca</h3>
+      <h3 align="center">Next.js Web Application</h3>
       <p align="center">
         <a href="https://canviews.vercel.app/" target="_blank">
           <img src="https://i.gyazo.com/9215cd32e84a1987e8addaa6f2be6743.png" alt="Next.js web application"/>
         </a>
       </p>
-      <p>The front end of an e-commerce platform from scratch.</p>
+      <p>The front end of an e-commerce platform built from scratch.</p>
     </td>
     <td width="50%">
       <h3 align="center">Northern BC Outfitters</h3>
