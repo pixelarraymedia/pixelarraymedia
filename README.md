@@ -26,7 +26,7 @@ I transform ideas into digital experiences. With a passion for maintainable code
     <td width="50%">
       <h3 align="center">Northern BC Outfitters</h3>
       <p align="center">
-        <a href="https://northernbcoutfitters.ca" target="_blank">
+        <a href="https://google.ca" target="_blank">
           <img src="https://i.gyazo.com/6c03ba2103d025d6b5ddf85b41378748.jpg" alt=Nothern BC outfitters"/>
         </a>
       </p>
