@@ -8,32 +8,7 @@
 
 ## 🌐 About Me
 
-I transform ideas into digital experiences. With a passion for maintainable code and creative solutions, i'm always eager to learn more and push the boundaries of whats possible through technology.
-
-## 🔮 Recent Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Next.js Web Application</h3>
-      <p align="center">
-        <a href="https://canviews.vercel.app/" target="_blank">
-          <img src="https://i.gyazo.com/9215cd32e84a1987e8addaa6f2be6743.png" alt="Next.js web application"/>
-        </a>
-      </p>
-      <p>The front end of an e-commerce platform built from scratch.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Northern BC Outfitters</h3>
-      <p align="center">
-        <a href="https://google.ca" target="_blank">
-          <img src="https://i.gyazo.com/6c03ba2103d025d6b5ddf85b41378748.jpg" alt=Nothern BC outfitters"/>
-        </a>
-      </p>
-      <p>A website I recently developed for a sports and recreation guide.</p>
-    </td>
-  </tr>
-</table>
+I transform ideas into digital experiences. With a passion for maintainable code and innovative solutions, i'm always eager to learn more and push the boundaries of whats possible through technology.
 
 ## 🛠️ Tech Stack
 
@@ -68,16 +43,6 @@ I transform ideas into digital experiences. With a passion for maintainable code
 
 > "For to know a man's library is, in some measure, to know his mind." -  Geraldine Brooks
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pixelarraymedia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelarraymedia&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pixelarraymedia&theme=tokyonight" alt="pixelarraymedia's streak"/>
-</p>
 
 ## 🌱 Current Learning Path
 
@@ -87,13 +52,7 @@ I transform ideas into digital experiences. With a passion for maintainable code
 - Quantum computing fundamentals
 - Advanced data visualization techniques
 
-## 🤝 Connect With Me
 
-<p align="center">
-<!--   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!--   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
-</p>
 
 ## 👀 Visitor Count
 
