@@ -8,7 +8,7 @@
 
 ## 🌐 About Me
 
-I transform ideas into digital experiences. With a passion for maintainable code and innovative solutions, i'm always eager to learn more and push the boundaries of whats possible through technology.
+I transform ideas into digital experiences. I'm seriously passionate about solving problems and always eager to learn more. Looking to push the boundaries of whats possible through technology.
 
 ## 🛠️ Tech Stack
 
