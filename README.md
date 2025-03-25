@@ -8,7 +8,7 @@
 
 ## 🌐 About Me
 
-I specialize in Digital Transformation. I'm seriously passionate about clean maintainable code that solves problems and always eager to gain deep knowledge about programming topics. Looking to push the boundaries of whats possible through technology.
+ I'm seriously passionate about clean maintainable code and solving problems. Always eager to gain deep knowledge about programming topics. Looking to push the boundaries of what's possible through technology.
 
 
 <div align="center">
