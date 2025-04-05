@@ -8,7 +8,7 @@
 
 ## 🌐 About Me
 
- I'm seriously passionate about clean maintainable code and solving problems. Always eager to gain deep knowledge about programming topics. Looking to push the boundaries of what's possible through technology.
+ I'm seriously passionate about writing clean, maintainable code and solving problems. Always eager to gain deep knowledge about programming topics. Looking to push the boundaries of what's possible through technology.
 
 
 <div align="center">
