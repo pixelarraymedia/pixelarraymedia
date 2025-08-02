@@ -6,10 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=false&vCenter=false&repeat=false&width=435&lines=Software+Developer)](https://git.io/typing-svg)
 
-## 🌐 About Me
-
-I build things and stuff.
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
